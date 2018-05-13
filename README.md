@@ -1,4 +1,4 @@
-# How to Dinamically Ddd Columns to a Spark Dataframe
+# How to Dinamically Add Columns to a Spark Dataframe
 
 Example code for my post on https://lansalo.com
 
